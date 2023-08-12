@@ -1,0 +1,18 @@
+.header_inner {
+    position: relative;
+    display: flex;
+    align-items: center;
+    // margin-left: 80px;
+    backdrop-filter:blur(10px);
+
+    .header_title {
+        position: relative;
+        color: #fff;
+        margin-left: 5px;
+        font-size: 28px;
+        line-height: 140%;
+        cursor: default;
+    }
+
+    
+}
